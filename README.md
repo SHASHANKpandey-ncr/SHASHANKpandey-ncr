@@ -19,3 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankpandey-ncr&show_icons=true&locale=en&layout=compact" alt="shashankpandey-ncr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankpandey-ncr&show_icons=true&locale=en" alt="shashankpandey-ncr" /></p>
+
+
+
+
+- 2nd draft. (still updating and editing...)
