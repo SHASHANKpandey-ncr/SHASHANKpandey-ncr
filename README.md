@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankpandey-ncr&show_icons=true&locale=en" alt="shashankpandey-ncr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankpandey-ncr&" alt="shashankpandey-ncr" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashankpandey-ncr)  
+
+![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr)  
