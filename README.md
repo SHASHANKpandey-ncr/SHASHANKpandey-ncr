@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
+- ☕ Ask me about **Java Backend Technologies**
+
 - 📫 How to reach me **shashank.pandey.ncr@gmail.com**
 
 - ⚡ Fun fact **I code before I brush my teeth 😁**
