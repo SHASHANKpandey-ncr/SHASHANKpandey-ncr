@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I code before I brush my teeth 😁**
 
-- 
+- 🏆 You can find more about me and my work in my [portfolio](https://shashank-pandey-portfolio.netlify.app/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
