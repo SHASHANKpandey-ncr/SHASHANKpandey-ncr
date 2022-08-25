@@ -33,4 +33,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashankpandey-ncr)  
 
-![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr)
+![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr) 
