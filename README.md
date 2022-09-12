@@ -2,19 +2,21 @@
 <img src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" alt="spring" />
 <h3 align="center">An Enthusiastic Java Backend Developer from India 😎👩‍💻🙌💻🌐</h3>
 
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashankpandey-ncr&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpandey-ncr" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankpandey-ncr" alt="shashankpandey-ncr" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- ☕ Ask me about **Java Backend Technologies**
+- ☕ Ask me about **Java Backend Technologies** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **shashank.pandey.ncr@gmail.com**
+- 📫 How to reach me **shashank.pandey.ncr@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- ⚡ Fun fact **I code before I brush my teeth 😁**
+- ⚡ Fun fact **I code before I brush my teeth 😁** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 🏆 You can find more about me and my work in my [portfolio](https://shashank-pandey-portfolio.netlify.app/)
+- 🏆 You can find more about me and my work in my [portfolio](https://shashank-pandey-portfolio.netlify.app/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
