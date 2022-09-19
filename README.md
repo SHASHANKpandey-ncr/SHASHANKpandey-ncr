@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I code before I brush my teeth 😁** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 🏆 You can find more about me and my work in my [portfolio](https://portfolio-shashank-pandey.netlify.app/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 🏆 You can find more about me and my work in my [portfolio](http://shashankpandey-ncr.github.io/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
