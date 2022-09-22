@@ -4,11 +4,11 @@
 
 
 <img src="https://iconshots.com/wp-content/uploads/2019/03/Java-Developer-1920x960.jpg" alt="spring" />
-<h3 align="center">An Enthusiastic Java Backend Developer from India 😎👩‍💻🙌💻🌐</h3>
+<h3 align="center">An Enthusiastic Java Backend Developer from India 😎👩‍💻🙌💻🌐 </h3>
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashankpandey-ncr&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpandey-ncr" /> </p>
+<p align="center"><img src = "https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width = 50px> <img src="https://komarev.com/ghpvc/?username=shashankpandey-ncr&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpandey-ncr" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankpandey-ncr" alt="shashankpandey-ncr" /></a> </p>
 
@@ -22,7 +22,7 @@
 
 - 🏆 You can find more about me and my work in my [portfolio](http://shashankpandey-ncr.github.io/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><img src = "https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width = 32px> Connect with me:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/_shashank_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_shashank_pandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashank-pandey-b2a5aa251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashank-pandey-b2a5aa251" height="25" width="35" /></a>
