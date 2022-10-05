@@ -10,6 +10,12 @@
 
 <p align="center"><img src = "https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width = 50px> <img src="https://komarev.com/ghpvc/?username=shashankpandey-ncr&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpandey-ncr" /> </p>
 
+<p align="center"><img src="http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2012%20mins-blue" alt="shashankpandey-ncr" /> </p>
+
+<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--17%20Thousand%20lines%20of%20code-blue" /> </p>
+
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankpandey-ncr" alt="shashankpandey-ncr" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
@@ -21,6 +27,8 @@
 - ⚡ Fun fact **I code before I brush my teeth 😁** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 🏆 You can find more about me and my work in my [portfolio](http://shashankpandey-ncr.github.io/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+
 
 <h3 align="center"><img src = "https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width = 32px> Connect with me:</h3>
 <p align="center">
