@@ -10,9 +10,9 @@
 
 <p align="center"><img src = "https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width = 50px> <img src="https://komarev.com/ghpvc/?username=shashankpandey-ncr&label=Profile%20views&color=0e75b6&style=flat" alt="shashankpandey-ncr" /> </p>
 
-<p align="center"><img src="http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2012%20mins-blue" alt="shashankpandey-ncr" /> </p>
+<p align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> <img src="http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2012%20mins-blue" alt="shashankpandey-ncr" /> </p>
 
-<p align="center"><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--17%20Thousand%20lines%20of%20code-blue" /> </p>
+<p align="center"><img width=20px src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp"> <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--17%20Thousand%20lines%20of%20code-blue" /> </p>
 
 
 
