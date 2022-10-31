@@ -47,22 +47,50 @@
  
 <h3 align="center"><img src = "https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width = 32> GitHub's Stats:</h3> 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankpandey-ncr&show_icons=true&locale=en&layout=compact" alt="shashankpandey-ncr" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankpandey-ncr&show_icons=true&locale=en" alt="shashankpandey-ncr" /></p>
+
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankpandey-ncr&show_icons=true&locale=en" alt="shashankpandey-ncr" /></p>
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankpandey-ncr&" alt="shashankpandey-ncr" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashankpandey-ncr)  
-
-![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashankpandey-ncr)   -->
 
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankpandey-ncr&show_icons=true&locale=en&layout=compact" alt="shashankpandey-ncr" /></p>
+
+
+  | Github Stats | Current Strek  |
+| --- | --- |
+| ![sp GitHub stats](https://github-readme-stats.vercel.app/api?username=SHASHANKpandey-ncr&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SHASHANKpandey-ncr&theme=tokyonight)](https://git.io/streak-stats) |
+
+
+<!-- Theme color -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+
+| Top Languages | Contribution Graph  |
+| :--- | --- |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=SHASHANKpandey-ncr&show_icons=true&theme=cobalt" alt="sp Language stats" /> | [![sp github activity graph](https://activity-graph.herokuapp.com/graph?username=SHASHANKpandey-ncr&custom_title=Shashank%20Pandey's%20contribution%20graph&hide_border=true&theme=gruvbox)](https://github.com/04psm/github-readme-activity-graph) |
 
 
 
+<!-- ![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr)  -->
+
+---
+
+
+<!-- <div aling="center"> -->
+  
+<h2 align ='center' >&nbsp; Some dev PJs for my friends and followers <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+<p align="center" ><img align="center" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="shashankpandey-ncr" /></p>
+
+<!--   </div> -->
+
+
+<br>
 
 <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
 
----
+
