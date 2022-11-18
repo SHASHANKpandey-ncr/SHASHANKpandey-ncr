@@ -76,6 +76,8 @@
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr)  -->
 
+[![@shashankpandeyncr's Holopin board](https://holopin.me/shashankpandeyncr)](https://holopin.io/@shashankpandeyncr)
+
 ---
 
 
