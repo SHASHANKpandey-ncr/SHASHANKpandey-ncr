@@ -28,16 +28,20 @@
 
 - 🏆 You can find more about me and my work in my [portfolio](http://shashankpandey-ncr.github.io/) <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-
+<!-- ******************************************************** socials *************************************************************************************** -->
 
 <h3 align="center"><img src = "https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width = 32px> Connect with me:</h3>
 <p align="center">
-<a href="https://www.hackerrank.com/_shashank_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_shashank_pandey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashank-pandey-b2a5aa251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shashank-pandey-b2a5aa251" height="25" width="35" /></a>
-<a href="https://www.leetcode.com/_shashank_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_shashank_pandey" height="30" width="40" /></a>
+
 </p>
 
+<!-- ******************************************************** socials end *************************************************************************************** -->
+
+
 <h3 align="center">_</h3>
+
+<!-- ******************************************************** techStacks *************************************************************************************** -->
+
 
 <h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:</h3>
 
@@ -55,16 +59,13 @@
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=aws&logoColor=white" alt="aws" />
+    <img src="https://img.shields.io/badge/visual studio code-593D88?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="visualstudiocode" />
+    <img src="https://img.shields.io/badge/netlify-1572B6?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
     <img src="https://img.shields.io/badge/swagger-593D88?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" />
 
 </p>
 
-
-
-
-
-
-<!-- <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://logodix.com/logo/34937.png" alt="aws" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>   </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbl9B2yl7iTuYk4JCAFSTuytuYidlQk_h4pmyt_1EJrwyyIsk5Qcwlh6q2_pbATZr2_lg&usqp=CAU" alt="laravel" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="60" height="60"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="spring" width="60" height="60"/> </a> </p> -->
+<!-- ****************************************************** techStacks end *************************************************************************************** -->
 
 
 <h3 align="center">_</h3>
