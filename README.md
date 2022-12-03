@@ -32,13 +32,20 @@
 
 <h3 align="center"><img src = "https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width = 32px> Connect with me:</h3>
 <p align="center">
-
+  <a href="https://www.hackerrank.com/_Shashank_pandey" title="badge authenticity">
+    <img src="https://img.shields.io/badge/Hacker-Rank-339933?style=for-the-badge&logo=HackerRank&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://leetcode.com/_Shashank_pandey/" title="badge authenticity">
+    <img src="https://img.shields.io/badge/Leet-Code-E34F26?style=for-the-badge&logo=LeetCode&logoColor=white" alt="html5" />
+  </a>
 </p>
+
 
 <!-- ******************************************************** socials end *************************************************************************************** -->
 
 
 <h3 align="center">_</h3>
+
 
 <!-- ******************************************************** techStacks *************************************************************************************** -->
 
@@ -102,6 +109,7 @@
 <!-- ![GitHub metrics](https://metrics.lecoq.io/shashankpandey-ncr)  -->
 
 [![@shashankpandeyncr's Holopin board](https://holopin.me/shashankpandeyncr)](https://holopin.io/@shashankpandeyncr)
+
 
 ---
 
